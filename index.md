@@ -36,7 +36,7 @@ However, the original implementation reflected an earlier stage in my developmen
 
 This original version serves as a clear baseline for the enhancements that follow. It provides context for the design, algorithmic, and database improvements made later and helps demonstrate my growth in applying software engineering and secure coding principles.
 
-[Original Artifact]()
+[Original Artifact](https://github.com/j-snhu/CS499/blob/main/TextBasedGame.py)
 
 ---
 
@@ -53,6 +53,7 @@ In the enhanced version, the entire game was reorganized into a Game class, whic
 This design greatly improves readability and maintainability. By separating responsibilities and reducing repetition, the program is easier to understand and update. From a software engineering perspective, this enhancement demonstrates modular design, separation of concerns, and cleaner architecture that more closely reflects professional coding practices.
 
 [Enhancement One Artifact]()
+[Enhancement One Narrative]()
 
 ---
 
@@ -65,6 +66,7 @@ The enhanced game includes a path command that allows the player to request the 
 These changes demonstrate applied algorithmic thinking and effective use of data structures such as sets, dictionaries, and queues. The enhanced logic improves reliability, reduces unnecessary branching, and provides helpful guidance to the player while maintaining predictable control flow.
 
 [Enhancement Two Artifact]()
+[Enhancement Two Narrative]()
 
 ---
 
@@ -77,5 +79,6 @@ This database is automatically updated when the game ends, and the connection is
 This enhancement demonstrates practical database skills, including table creation, inserting records, and managing database connections. It shows how databases can be integrated into an application to support data persistence and long-term use, rather than relying only on in-memory data.
 
 [Enhancement Three Artifact]()
+[Enhancement Three Narrative]()
 
 ---
