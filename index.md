@@ -52,8 +52,8 @@ In the enhanced version, the entire game was reorganized into a Game class, whic
 
 This design greatly improves readability and maintainability. By separating responsibilities and reducing repetition, the program is easier to understand and update. From a software engineering perspective, this enhancement demonstrates modular design, separation of concerns, and cleaner architecture that more closely reflects professional coding practices.
 
-[Enhancement One Artifact]()
-[Enhancement One Narrative]()
+[Enhancement One Artifact](https://github.com/j-snhu/CS499/blob/main/EnhancementOne%20-%20TextBasedGame.py)
+[Enhancement One Narrative](https://github.com/j-snhu/CS499/blob/main/CS%20499%20-%20Module%203%20Milestone%202%20-%20Sanchez.pdf)
 
 ---
 
@@ -65,8 +65,8 @@ The enhanced game includes a path command that allows the player to request the 
 
 These changes demonstrate applied algorithmic thinking and effective use of data structures such as sets, dictionaries, and queues. The enhanced logic improves reliability, reduces unnecessary branching, and provides helpful guidance to the player while maintaining predictable control flow.
 
-[Enhancement Two Artifact]()
-[Enhancement Two Narrative]()
+[Enhancement Two Artifact](https://github.com/j-snhu/CS499/blob/main/EnhancementTwo%20-%20TextBasedGame.py)
+[Enhancement Two Narrative](https://github.com/j-snhu/CS499/blob/main/CS%20499%20-%20Module%204%20Milestone%203%20-%20Sanchez.pdf)
 
 ---
 
@@ -78,7 +78,7 @@ This database is automatically updated when the game ends, and the connection is
 
 This enhancement demonstrates practical database skills, including table creation, inserting records, and managing database connections. It shows how databases can be integrated into an application to support data persistence and long-term use, rather than relying only on in-memory data.
 
-[Enhancement Three Artifact]()
-[Enhancement Three Narrative]()
+[Enhancement Three Artifact](https://github.com/j-snhu/CS499/blob/main/EnhancementThree%20-%20TextBasedGame.py)
+[Enhancement Three Narrative](https://github.com/j-snhu/CS499/blob/main/CS%20499%20-%20Module%205%20Milestone%204%20-%20Sanchez.pdf)
 
 ---
