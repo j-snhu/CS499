@@ -10,7 +10,7 @@ Software engineering and database concepts were a major part of my development a
 
 Security became an increasingly important focus as I progressed through the program. I learned to think more carefully about user behavior and how unexpected input can cause crashes or incorrect program states. By applying input validation, safe defaults, and defensive programming techniques, I learned how to build programs that are more reliable and secure from the start.
 
-The artifacts included in this ePortfolio demonstrate how these skills work together. The text-based adventure game featured here combines software design, algorithms, database integration, and secure coding in a single application. The code review and enhancement sections that follow explain how I evaluated the original program and applied targeted improvements based on best practices. Together, these artifacts reflect my readiness to enter the computer science field as a capable and thoughtful developer.
+The content included in this ePortfolio demonstrates how these skills work together. The text-based adventure game featured here combines software design, algorithms, database integration, and secure coding in a single application. The code review and enhancement sections that follow explain how I evaluated the original program and applied targeted improvements based on best practices. Together, these items reflect my readiness to enter the computer science field as a capable and thoughtful developer.
 
 ---
 
