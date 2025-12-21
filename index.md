@@ -1,3 +1,14 @@
+## Table of Contents
+
+- [Professional Self-Assessment](#professional-self-assessment)
+- [Code Review](#code-review)
+- [Artifact Overview](#artifact-overview)
+- [Enhancement One: Software Engineering and Design](#enhancement-one-software-engineering-and-design)
+- [Enhancement Two: Algorithms and Data Structures](#enhancement-two-algorithms-and-data-structures)
+- [Enhancement Three: Databases](#enhancement-three-databases)
+
+---
+
 # Professional Self-Assessment
 
 Completing the Computer Science program and building this ePortfolio helped me clearly understand my strengths and how I want to move forward in the computer science field. Over time, I moved beyond simply making programs work and began focusing on writing software that is organized, readable, reliable, and easier to maintain. Working on the capstone and assembling this portfolio gave me the opportunity to reflect on how my technical skills and professional mindset have grown throughout the program.
@@ -83,5 +94,13 @@ This enhancement demonstrates practical database skills, including table creatio
 [Enhancement Three Artifact](https://github.com/j-snhu/CS499/blob/main/EnhancementThree%20-%20TextBasedGame.py)
 
 [Enhancement Three Narrative](https://github.com/j-snhu/CS499/blob/main/CS%20499%20-%20Module%205%20Milestone%204%20-%20Sanchez.pdf)
+
+---
+
+## Overall
+
+Working through the Computer Science program and completing the capstone project helped me understand that improving software is just as important as writing it the first time. As I enhanced my text-based adventure game, I learned how to step back, review existing code, and identify areas where structure, logic, and reliability could be improved. This process showed me how small changes in design and organization can make a program much easier to understand and maintain.
+
+Throughout the course, I also learned how different computer science concepts connect to each other in real projects. Software design, algorithms, databases, and security are not separate ideas but work together to create reliable applications. Enhancing this project helped me see how thoughtful planning, clear logic, and careful handling of data and user input all contribute to better software. These lessons shaped how I now approach development and prepared me to think more like a professional developer rather than just a student.
 
 ---
